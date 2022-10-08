@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahaavi&label=Profile%20views&color=0e75b6&style=flat" alt="sahaavi" /> </p>
 
-- 🔭 I’m currently looking for **an job in Data Science or Machine Learning.**
-
-- 🌱 I’m currently learning **Human Computer Interaction (HCI).**
-
-- 👯 I’m looking to collaborate on **Computer Vision and Pattern Recognition.**
-
-- 🤝 I’m looking for help with **AWS.**
+- 🔭 I’m currently looking for **an job in Data Science.**
 
 - 💬 Ask me about **Anything.**
 
