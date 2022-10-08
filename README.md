@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahaavi&label=Profile%20views&color=0e75b6&style=flat" alt="sahaavi" /> </p>
 
-- 🔭 I’m currently looking for **an job in Data Science.**
-
-- 💬 Ask me about **Anything.**
+- 🔭 I’m currently pursuing  **Master of Data Sciecne at UBC**
 
 - 📫 How to reach me  <a href="mailto:avisheksaha123@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-avisheksaha123@gmail.com-red?style=flat&logo=gmail"></a>
 
