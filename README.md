@@ -14,8 +14,9 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-   <a href="https://sahaavi.github.io"><img src="https://img.shields.io/badge/Website-sahaavi.github.io-red?style=flat-square"></a>   
+   <a href="https://sahaavi.github.io"><img src="https://img.shields.io/badge/Website-sahaavi.github.io-red?style=flat"></a>   
    <a href="https://linkedin.com/in/sahaavi"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-sahaavi-blue?style=flat&logo=linkedin"></a>
+   <a href="https://public.tableau.com/app/profile/avishek.saha"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-avishek.saha-yellowgreen"></a>
    <a href="https://kaggle.com/avi1023"><img alt="kaggle" src="https://img.shields.io/badge/kaggle-avi1023-skyblue?style=flat&logo=kaggle"></a>
    <a href="https://www.hackerrank.com/avisheksaha123"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-avisheksaha123-greenstyle=flat&logo=hackerrank"></a>
 </p>
