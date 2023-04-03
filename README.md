@@ -9,7 +9,9 @@
 </p>
 
 - 🔭 I’m currently pursuing  **Master of Data Science at UBC**
-
+- 👨‍💻 Interests: Machine Learning, Data Science
+- 🔍 Looking for job opportunities in the field of data science and data analysis.
+- 💬 Ping me about anything at <a href="https://github.com/sahaavi/sahaavi/discussions/">Discussions!</a>
 - 📫 How to reach me  <a href="mailto:avisheksaha123@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-avisheksaha123@gmail.com-red?style=flat&logo=gmail"></a>
 
 <h3 align="center">Connect with me</h3>
@@ -21,18 +23,15 @@
    <a href="https://www.hackerrank.com/avisheksaha123"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-avisheksaha123-greenstyle=flat&logo=hackerrank"></a>
 </p>
 
-<p align="center">
-   <a href="https://github.com/sahaavi"><img src="https://github-stats-alpha.vercel.app/api?username=sahaavi&cc=22272e&tc=37BCF6&ic=fff&bc=0000"></a>
-</p>
-
 
 <h2 align="center">📈 Stats</p>
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahaavi&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahaavi&theme=tokyonight&layout=compact&hide=html) 
 
  
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahaavi&theme=dracula)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahaavi&theme=dark" width="48%" >
+<img src="https://github-stats-alpha.vercel.app/api?username=sahaavi&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 <img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahaavi&langs_count=10&theme=tokyonight&layout=compact&hide=html">
 
 
