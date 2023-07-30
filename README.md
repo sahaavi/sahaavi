@@ -8,7 +8,6 @@
    <img src="https://komarev.com/ghpvc/?username=sahaavi&label=Profile%20views&color=0e75b6&style=flat" alt="sahaavi" /> 
 </p>
 
-- 🔭 I’m currently pursuing  **Master of Data Science at UBC**
 - 👨‍💻 Interests: Machine Learning, Data Science
 - 🔍 Looking for job opportunities in the field of data science and data analysis.
 - 💬 Ping me about anything at <a href="https://github.com/sahaavi/sahaavi/discussions/">Discussions!</a>
