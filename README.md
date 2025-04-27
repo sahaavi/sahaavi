@@ -9,7 +9,7 @@
 </p>
 
 - 👨‍💻 Interests: Machine Learning, Data Science
-- 🔍 Looking for job opportunities in the field of data science and data analysis.
+- 🔍 Looking for job opportunities in the field of Machine Learning.
 - 💬 Ping me about anything at <a href="https://github.com/sahaavi/sahaavi/discussions/">Discussions!</a>
 - 📫 How to reach me  <a href="mailto:avisheksaha123@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-avisheksaha123@gmail.com-red?style=flat&logo=gmail"></a>
 
