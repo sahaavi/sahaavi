@@ -1,40 +1,64 @@
-<h1 align="center">Hi 👋, I'm Avishek Saha</h1>
-<h3 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?  font=Fira+Code&size=22&pause=1000&color=5CF75F&center=true&multiline=true&width=435&lines=Data+Science+%7C+Machine+Learning" alt="Typing SVG" />
-   </a>
-</h3>
+# Avishek Saha
 
-<p align="left"> 
-   <img src="https://komarev.com/ghpvc/?username=sahaavi&label=Profile%20views&color=0e75b6&style=flat" alt="sahaavi" /> 
-</p>
+**Applied AI Engineer building multimodal agents and LLM systems for operational workflows**
 
-- 👨‍💻 Interests: Machine Learning, Data Science
-- 🔍 Looking for job opportunities in the field of Machine Learning.
-- 💬 Ping me about anything at <a href="https://github.com/sahaavi/sahaavi/discussions/">Discussions!</a>
-- 📫 How to reach me  <a href="mailto:avisheksaha123@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-avisheksaha123@gmail.com-red?style=flat&logo=gmail"></a>
+I build production-minded AI systems where the model is only one part of the product: real-time interfaces, backend tools, retrieval, confirmation flows, deployment, and tests.
 
-<h3 align="center">Connect with me</h3>
-<p align="center">
-   <!--<a href="https://sahaavi.github.io"><img src="https://img.shields.io/badge/Website-sahaavi.github.io-red?style=flat"></a>-->   
-   <a href="https://linkedin.com/in/sahaavi"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-sahaavi-blue?style=flat&logo=linkedin"></a>
-   <a href="https://public.tableau.com/app/profile/avishek.saha"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-avishek.saha-yellowgreen"></a>
-   <a href="https://kaggle.com/avi1023"><img alt="kaggle" src="https://img.shields.io/badge/kaggle-avi1023-skyblue?style=flat&logo=kaggle"></a>
-   <a href="https://www.hackerrank.com/avisheksaha123"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-avisheksaha123-greenstyle=flat&logo=hackerrank"></a>
-</p>
+Current focus:
 
+- Multimodal agents and tool-using LLM applications
+- Python/FastAPI backends for AI workflows
+- RAG systems with explicit evaluation and retrieval boundaries
+- Operational data workflows for maintenance, asset performance, and decision support
 
-<h2 align="center">📈 Stats</p>
-<br>
+## Flagship Project
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahaavi&theme=tokyonight&layout=compact&hide=html) 
+### Maintenance-Eye
 
- 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahaavi&theme=dark" width="48%" >
-<img src="https://github-stats-alpha.vercel.app/api?username=sahaavi&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-<img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahaavi&langs_count=10&theme=tokyonight&layout=compact&hide=html">
+Deployed real-time maintenance copilot for field technicians. A technician can point a phone camera at equipment, speak naturally, and get live visual analysis, voice responses, asset lookup, maintenance context, safety guidance, work-order support, and confirmation-gated actions.
 
+**Stack:** Google ADK, Gemini 2.5 Flash Live API, FastAPI, WebSockets, Firestore, Cloud Run, Docker, Terraform, GitHub Actions
 
+**Links:** [Live demo](https://maintenance-eye-swrz6daraq-uc.a.run.app) | [Repository](https://github.com/sahaavi/Maintenance-Eye) | [Portfolio case study](https://sahaavi.github.io/projects/maintenance-eye/)
 
+<img src="https://raw.githubusercontent.com/sahaavi/Maintenance-Eye/main/docs/architecture.png" alt="Maintenance-Eye architecture diagram" width="720">
 
+## Current Build
 
+### GovtIntel
 
+In-progress federal procurement intelligence RAG system for contract analysis. Current work includes ingestion scaffolding, BM25/vector retrieval modules, prompt templates, FastAPI routes, typed models, and tests.
+
+This is intentionally labeled **in progress** until the full RAG pipeline, demo, and evaluation results are available.
+
+**Stack:** Python, FastAPI, Pydantic, BM25 retrieval, vector retrieval scaffolding, prompt templates, pytest
+
+**Link:** [Repository](https://github.com/sahaavi/GovtIntel)
+
+## Earlier Proof
+
+### Autism Spectrum Disorder Prediction
+
+Published applied machine-learning research exploring SVM and CNN approaches for ASD screening classification in the International Journal of Information Technology and Computer Science.
+
+**Link:** [Publication](https://www.mecs-press.org/ijitcs/ijitcs-v14-n4/v14n4-2.html)
+
+## Background
+
+- Master of Data Science, University of British Columbia
+- BSc in Computer Science and Engineering, American International University-Bangladesh
+- Data Analyst at BC Rapid Transit Company, working on incident, KPI, and asset-performance data systems while exploring AI-assisted maintenance workflows for decision support and diagnostics
+
+## Core Stack
+
+**Applied AI:** LLM applications, AI agents, RAG, tool use, prompt engineering, evaluation, multimodal AI, NLP, computer vision
+
+**Backend and Data:** Python, FastAPI, SQL, PostgreSQL, Django, Pandas, NumPy, ETL pipelines, data modeling, Microsoft Fabric
+
+**Cloud and Delivery:** GCP, Cloud Run, Firestore, Gemini, Docker, Terraform, GitHub Actions, CI/CD
+
+## Contact
+
+- Portfolio: [sahaavi.github.io](https://sahaavi.github.io)
+- LinkedIn: [linkedin.com/in/sahaavi](https://linkedin.com/in/sahaavi)
+- Email: [avisheksaha123@gmail.com](mailto:avisheksaha123@gmail.com)
