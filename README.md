@@ -12,4 +12,4 @@ A few things I'm working on:
 
 I also have an older applied ML publication on SVM/CNN approaches for ASD screening classification: [publication](https://www.mecs-press.org/ijitcs/ijitcs-v14-n4/v14n4-2.html).
 
-You can also find me on [LinkedIn](https://linkedin.com/in/sahaavi) and [X](https://x.com/AviSystems).
+You can also find me on [LinkedIn](https://linkedin.com/in/sahaavi) and [X](https://x.com/avi_in_tech).
