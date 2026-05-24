@@ -6,7 +6,7 @@ Lately I'm spending most of my time around agentic AI, multimodal systems, and R
 
 A few things I'm working on:
 
-- [Maintenance-Eye](https://github.com/sahaavi/Maintenance-Eye): a maintenance copilot demo built around live interaction, domain tools, and confirmation-gated actions. There's also a [case study](https://sahaavi.github.io/projects/maintenance-eye/) and a [demo](https://maintenance-eye-swrz6daraq-uc.a.run.app).
+- [Maintenance-Eye](https://github.com/sahaavi/Maintenance-Eye): a maintenance copilot demo built around live interaction, domain tools, and confirmation-gated actions. There's also a [case study](https://sahaavi.github.io/projects/maintenance-eye/) and a [Devpost demo video](https://devpost.com/software/maintenance-eye).
 - [GovtIntel](https://github.com/sahaavi/GovtIntel): an in-progress RAG project for federal procurement analysis. Right now it is focused on ingestion, retrieval, API, prompt, and test scaffolding.
 - I keep project writeups and notes at [sahaavi.github.io](https://sahaavi.github.io).
 
