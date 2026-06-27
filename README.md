@@ -12,4 +12,4 @@ My current technical focus is OpenAI API, Anthropic API, Gemini API, Google ADK,
 
 ## Elsewhere
 
-[LinkedIn](https://linkedin.com/in/sahaavi) · [X](https://x.com/avi_in_tech)
+[LinkedIn](https://linkedin.com/in/sahaavi) · [X](https://x.com/avisheksaha_)
